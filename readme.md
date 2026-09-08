@@ -22,5 +22,5 @@
 
 Aunque tanto la busqueda binaria como la trinaria tienen una complejidad de O(log n) en notación asíntótica, hay que notar el hecho de que la cantidad de instrucciones realizadas no es la misma, si bien la busqueda trinaria realiza mas operaciones por iteración, tambien reduce el parametro de control una mayor cantidad, por lo que llega un punto en el cual las mayores instrucciónes por iteración generan menos tardanza que la menor división del parametro de control. Los datos experimentales sugieren que a partir de un valor de n muy alto la busqueda trinaria se vuelve mas eficaz. Pero ninguna de las dós es más rápida en todos los casos.
 
-!(https://media.tenor.com/YRbAqeoblnkAAAAe/robert-downey-jr-explaining.png "Es verdad")
+![Es verdad](https://media.tenor.com/YRbAqeoblnkAAAAe/robert-downey-jr-explaining.png)
 La comparación de la eficiencia de los metodos es fuertemente influenciada por las circumstancias bajo las cuales se evaluan.
